@@ -1,0 +1,72 @@
+## 1️⃣ Where to Find Option Data
+
+**Options are listed on exchanges**, so all details are publicly available. In India, the main exchange is **NSE (National Stock Exchange)**.
+
+You can also see this via **broker platforms** (Zerodha Kite, Upstox, Groww, etc.) or financial websites (Moneycontrol, NSE India, Investing.com).
+
+---
+
+## 2️⃣ What You’ll See in an Option Chain
+
+An **option chain** shows all options for a particular underlying stock or index.
+
+Here’s what you can expect:
+
+| Column                      | Meaning                                                            |
+| --------------------------- | ------------------------------------------------------------------ |
+| **Strike Price**            | Fixed price at which you can exercise (buy for Call, sell for Put) |
+| **LTP (Last Traded Price)** | Latest premium price for that option                               |
+| **Bid / Ask**               | Highest price someone is willing to pay / sell for the option      |
+| **Open Interest (OI)**      | Number of outstanding contracts for that strike                    |
+| **Volume**                  | Number of contracts traded today                                   |
+| **Change**                  | Change in premium from previous day                                |
+
+---
+
+### Example (Simplified Option Chain)
+
+| Strike Price | CE LTP | PE LTP | CE OI | PE OI |
+| ------------ | ------ | ------ | ----- | ----- |
+| 2500         | 85     | 10     | 1500  | 1200  |
+| 2550         | 50     | 25     | 1300  | 1000  |
+| 2600         | 25     | 60     | 1100  | 900   |
+
+* Strike = 2500, 2550, 2600
+* CE LTP = **Call premium**
+* PE LTP = **Put premium**
+
+---
+
+## 3️⃣ How to Access It Online
+
+### **Via NSE Website**
+
+1. Go to [https://www.nseindia.com](https://www.nseindia.com)
+2. Search for the stock (e.g., Reliance)
+3. Click **Derivatives → Option Chain**
+4. You’ll see **strike prices and premiums** for Calls and Puts
+
+### **Via Brokers**
+
+* Platforms like **Zerodha Kite, Upstox, Groww, Angel One** have option chains built in
+* They show **real-time premium, bid/ask, strike price, expiry**, and OI
+
+---
+
+## 4️⃣ Key Notes
+
+* **Strike Price** = Column in the option chain → Fixed
+* **Premium** = LTP (last traded price) or Bid/Ask
+* **Lot size** = Shown in contract specifications → Multiply premium × lot size to know total cost
+
+---
+
+## ✅ Quick Tip
+
+When looking at the option chain, always check:
+
+1. **Expiry** – Different months and weekly options exist
+2. **Strike Price** – Pick ITM, ATM, or OTM as per strategy
+3. **Premium (LTP)** – That’s the price you pay per share
+4. **Lot Size** – To calculate total investment
+

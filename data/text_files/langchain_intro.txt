@@ -1,0 +1,6 @@
+LangChain is a framework for building applications with language models. 
+- It connects to data sources and interacts with external environments.
+- LangChain provides tools for document loading, text splitting, and embedding generation. 
+- It also supports vector storage and retrieval, enabling efficient similarity searches. 
+- With LangChain, developers can create pipelines that process and transform text data, 
+- making it easier to integrate language models into real-world applications.
