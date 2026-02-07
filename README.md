@@ -1,6 +1,6 @@
 # RAG Learning (Retrieval-Augmented Generation) — Project Overview
 
-This repository demonstrates a small Retrieval-Augmented Generation (RAG) setup for experimenting with document ingestion, vector storage, and retrieval-powered workflows.
+This repository demonstrates a Retrieval-Augmented Generation (RAG) setup for experimenting with document ingestion, vector storage, and retrieval-powered workflows.
 
 ## Contents
 
